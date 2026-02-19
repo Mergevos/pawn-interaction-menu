@@ -1,7 +1,7 @@
 {
-	"user": "San-Andreas-Online",
+	"user": "Mergevos",
 	"repo": "pawn-interaction-menu",
 	"dependencies": [
-		"sampctl/samp-stdlib"
+		"openmultiplayer/omp-stdlib"
 	]
 }
