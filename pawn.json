@@ -3,5 +3,6 @@
 	"repo": "pawn-interaction-menu",
 	"dependencies": [
 		"openmultiplayer/omp-stdlib"
-	]
+	],
+	"include_path": "include"
 }
